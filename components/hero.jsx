@@ -46,11 +46,11 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          <Link href="https://jyotishyadav.vercel.app/">
+          {/* <Link href="https://jyotishyadav.vercel.app/">
             <Button size="lg" variant="outline" className="px-8">
               My Portfolio
             </Button>
-          </Link>
+          </Link> */}
         </div>
         <div className="hero-image-wrapper mt-5 md:mt-0">
           <div ref={imageRef} className="hero-image">
